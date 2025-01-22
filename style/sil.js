@@ -1,1 +1,1 @@
-alert( 'halaman web sma 6');
+alert( 'halaman web sma 6 kendari');
