@@ -1,1 +1,0 @@
-alert( 'halaman web sma 6');
